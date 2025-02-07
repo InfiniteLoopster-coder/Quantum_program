@@ -25,3 +25,7 @@ Displays the uncertainty product Δ𝑥Δ𝑝 for the harmonic oscillator ground
 Visualization:
 Wigner Function: A contour plot showing the phase-space distribution of the quantum state.
 Position Probability Distribution: A plot of the Gaussian probability density ∣𝜓(𝑥)∣2 for the ground state.
+
+![Screenshot 2025-02-07 084244](https://github.com/user-attachments/assets/590358b5-7633-4f3a-b845-6b168f0d01c4)
+
+
